@@ -1,2 +1,1 @@
-# glad-cmake
-a cmake repo for opengl 4.6 core profile
+a cmake-glad repo for opengl 4.6 core profile
